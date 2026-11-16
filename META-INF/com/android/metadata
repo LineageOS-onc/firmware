@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:298         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/onc/onc:10/QKQ1.191008.001/V12.5.1.0.QFLCNXM:user/release-keys
+post-build-incremental=V12.5.1.0.QFLCNXM
+post-sdk-level=29
+post-security-patch-level=2021-05-01
+post-timestamp=1623752681
+pre-device=onc

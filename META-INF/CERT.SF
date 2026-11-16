@@ -1,0 +1,91 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 9/h8Fmc5VpDjumCcNyJs/4f4nzA=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: LdckhOdjMA0nlA54GQDtUc/EvDg=
+
+Name: firmware-update/km4.mbn
+SHA1-Digest: C5R1XBBa6h3DtZKjEiRev09Pvvo=
+
+Name: system.patch.dat
+SHA1-Digest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: cust.patch.dat
+SHA1-Digest: Wkaw11OWD1Mb4gT1m5iXXV1Lk7c=
+
+Name: system.transfer.list
+SHA1-Digest: 0VNUumguHnzCWdLc4A58C50sWXk=
+
+Name: firmware-update/cmnlib_30.mbn
+SHA1-Digest: Ew84UNnIP4I+rPCBzNs/DMuhd4w=
+
+Name: firmware-update/devcfg.mbn
+SHA1-Digest: CxIDoRraIBaErvxWtUiLuLmMCyQ=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: gcscV9dlVO7eicivcc9EODqj7KI=
+
+Name: META-INF/com/xiaomieu/dg.db
+SHA1-Digest: s8BhxgpVomHQsafAVrcxJA6Rf8E=
+
+Name: firmware-update/dtbo.img
+SHA1-Digest: XVOSm/yRTarYjeS28RcGNuOEbPk=
+
+Name: firmware-update/NON-HLOS.bin
+SHA1-Digest: U11hpCH7bMPhCEtW19P0aC8AfSk=
+
+Name: META-INF/com/xiaomieu/patch.zip
+SHA1-Digest: k/+nXD/dvkUyAURm9TS5/ikDjD8=
+
+Name: firmware-update/adspso.bin
+SHA1-Digest: NoFehi4s8V89u8TTH3I3rzO33F0=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: HAg+FA/RrPyjxx+FxgjQWralLwU=
+
+Name: cust.new.dat.br
+SHA1-Digest: xLrDAYjrFVfmPw+/woxeMrKuqy0=
+
+Name: vendor.patch.dat
+SHA1-Digest: FGxh8AKe7Jf6bDNWX6tLn6TB/xA=
+
+Name: vendor.new.dat.br
+SHA1-Digest: es/m1Nh9I7wrcEBXDpx8YGmtgLw=
+
+Name: boot.img
+SHA1-Digest: H+x/UyGdEAFyYz7Frgl5uhK5f/g=
+
+Name: firmware-update/lksecapp.mbn
+SHA1-Digest: +IYN/1Bns2a+F7UmXNkJv59DOh4=
+
+Name: firmware-update/splash.img
+SHA1-Digest: u2U7S/2xH3rCVgivFrY/7/1m2K0=
+
+Name: firmware-update/vbmeta.img
+SHA1-Digest: 8VGiuF0uvcKmdGF2mk+t96BHzno=
+
+Name: vendor.transfer.list
+SHA1-Digest: PMgJigKbol2UPMAbVBYJEycUIaU=
+
+Name: firmware-update/rpm.mbn
+SHA1-Digest: b71xhPUajBODTji7RalCWkrGqiw=
+
+Name: system.new.dat.br
+SHA1-Digest: dI3B/aHIyz7cwcGRAbjc7JJxePY=
+
+Name: firmware-update/tz.mbn
+SHA1-Digest: +MGwKq4BCOVf5V9nEe263WYM3UI=
+
+Name: firmware-update/sbl1.mbn
+SHA1-Digest: D/5Ry6Fyoc1fqCIQmvqK+1fJqeM=
+
+Name: firmware-update/cmnlib64_30.mbn
+SHA1-Digest: ncolrakugAher6rCTZRw71qvNss=
+
+Name: firmware-update/emmc_appsboot.mbn
+SHA1-Digest: l35icPm310UzSgFACOoL/qssjy4=
+
+Name: cust.transfer.list
+SHA1-Digest: iV8xVSyQ/JusU/Yxlp12OYe3YI4=
+
